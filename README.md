@@ -42,9 +42,6 @@ This dual system serves the broader goal of improving speech-based authenticatio
 
 ---
 
-## Repo Structure
-voice-cloning-audio-detection/ ├── notebooks/ │ ├── VC System.ipynb # Voice cloning logic │ ├── Fake Audio Detection System.ipynb # Audio classifier │ ├── Word Error Rate (WER).ipynb # Speech quality evaluation │ └── Data renaming, moving and splitting.ipynb # Preprocessing utilities ├── data/ # Not included - see dataset links above ├── figures/ # SHAP plots, sample spectrograms, etc. ├── README.md └── requirements.txt
-
 ## Data Access
 
 Due to licensing constraints, the datasets are not included in this repo. However, you can access them publicly:
